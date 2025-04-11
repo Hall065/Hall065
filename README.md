@@ -3,7 +3,7 @@
 </div>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/cat.gif" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/cat.gif" width="100%" height="300"/>
 </div>
 
 ## Yo, I'm Hall 👋
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="80%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="400"/>
 </div>
 
 ## 🔗 Find me
