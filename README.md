@@ -22,7 +22,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="338"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif"/>
 </div>
 
 ## 🔗 Find me
