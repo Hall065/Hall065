@@ -1,4 +1,8 @@
 <div align="center">
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/banner.png" width="100%" height="400"/>
+</div>
+
+<div align="center">
   <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/cat.gif" width="100%" height="400"/>
 </div>
 
@@ -11,10 +15,6 @@
 
 ---
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="400"/>
-</div>
-
 ## 🧠 My Skills
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2hair.gif" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="400"/>
 </div>
 
 ## 🔗 Find me
@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif" width="480" height="270" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.4);" />
 </div>
