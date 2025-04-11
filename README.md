@@ -22,9 +22,8 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/teu-user/teu-repo/main/tatsuya.gif" height="150"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="400"/>
 </div>
-
 ---
 
 ## 🔗 Find me
