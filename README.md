@@ -2,10 +2,6 @@
   <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/banner.png"/>
 </div>
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/cat.gif" width="100%" height="300"/>
-</div>
-
 ## Yo, I'm Hall 👋
 
 🖤 Beginner dev  
@@ -38,7 +34,3 @@
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/hallzin_)
 
 ---
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif"/>
-</div>
