@@ -22,7 +22,7 @@
 </p>
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="90%" height="400"/>
 </div>
 ---
 
@@ -35,7 +35,3 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/joao_vitorf05)
 
 ---
-
-<div align="center">
-  <img src="zr2sono.gif" width="240px">
-</div>
