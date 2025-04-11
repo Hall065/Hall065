@@ -11,18 +11,22 @@
 
 ---
 
-## 🧠 My Skills
+### 💾 My Skills
 
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=flat-square&logo=github&logoColor=white)
+<div style="display: flex; align-items: center; justify-content: space-between;">
 
----
+<div>
+  
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff)  
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff)  
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)  
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff)  
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff)
 
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="400" />
+</div>
+
+<img src="tatsuya.gif" width="200px"/>
+
 </div>
 
 ## 🔗 Find me
