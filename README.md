@@ -11,7 +11,7 @@
 
 ---
 
-### 💾 My Skills
+## 🧠 My Skills
 
 <div style="display: flex; align-items: center; justify-content: space-between;">
 
