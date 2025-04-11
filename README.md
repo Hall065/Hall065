@@ -26,7 +26,7 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/tatsuya.gif" width="100%" height="350"/>
 </div>
 
 ## 🔗 Find me
@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif" width="480" height="270"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif"/>
 </div>
