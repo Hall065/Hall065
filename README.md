@@ -32,3 +32,5 @@
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/joao_vitorf05)
 
 ---
+
+![Status](https://img.shields.io/badge/Status-Studying%20React-green?style=flat-square)
