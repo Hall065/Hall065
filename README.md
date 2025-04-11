@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/banner.png" width="100%" height="400"/>
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/banner.png"/>
 </div>
 
 <div align="center">
@@ -40,5 +40,5 @@
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif" width="480" height="270" style="border-radius: 10px; box-shadow: 0px 0px 10px rgba(0,0,0,0.4);" />
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/zr2sono.gif" width="480" height="270"/>
 </div>
