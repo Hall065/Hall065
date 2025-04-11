@@ -37,5 +37,5 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=dracula" width="420px"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hall065&layout=compact&theme=dracula" width="400px"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hall065&layout=compact&theme=dracula" width="380px"/>
 </p>
