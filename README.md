@@ -38,11 +38,8 @@
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=dracula" width="420px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hall065&layout=compact&theme=dracula" width="375px"/>
-  <img src="https://github-profile-trophy.vercel.app/?username=Hall065&theme=dracula&row=1&column=6" width="420px"/>
 </p>
 
 ---
 
-<p align="center">
 ![Profile Views](https://komarev.com/ghpvc/?username=Hall065&color=blueviolet)
-</p>
