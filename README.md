@@ -10,7 +10,7 @@
 💬 Always up for a chat and a good laugh 😁  
 ## 🎧 Now Playing on Spotify
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8vcl1oqpxen43nb4lt4xov5jc&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=f5f5f5)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8vcl1oqpxen43nb4lt4xov5jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f5f5f5)](https://github.com/kittinan/spotify-github-profile)
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/Swords Banner Git.png"/>
