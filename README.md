@@ -9,6 +9,10 @@
 🚀 Building cool projects  
 💬 Always up for a chat and a good laugh 😁  
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/Swords Banner Git.png"/>
+</div>
+
 ---
 
 ## 🧠 My Skills
