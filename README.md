@@ -8,6 +8,8 @@
 💻 Currently learning: Git, GitHub, Python, HTML, CSS and JavaScript  
 🚀 Building cool projects  
 💬 Always up for a chat and a good laugh 😁  
+<img align="center" src="https://spotify-github-profile.kittinanx.com/api/view?uid=zx06f3wb13cgoll54gp3snq0m&cover_image=true&theme=novatorem&show_offline=false&background_color=151414&interchange=false&bar_color=53b14f&bar_color_cover=false" />
+<hr />
 
 <div align="center">
   <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/Swords Banner Git.png"/>
