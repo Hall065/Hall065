@@ -20,10 +20,6 @@
 
 ## 🧠 My Skills
 
-<div style="text-align: right;">
-  <img src="tatsuya.gif" width="220px">
-</div>
-
 <p>
   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=fff">
   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=fff">
@@ -32,6 +28,10 @@
   <img src="https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=fff">
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff">
 </p>
+
+<div style="text-align: right;">
+  <img src="tatsuya.gif" width="220px">
+</div>
 
 ---
 
