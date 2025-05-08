@@ -29,6 +29,10 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff">
 </p>
 
+<td>
+  <img src="tatsuya.gif" width="220px">
+</td>
+
 ---
 
 ## 🔗 Find me
