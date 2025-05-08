@@ -29,7 +29,7 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?style=flat&logo=github&logoColor=fff">
 </p>
 
-<div style="text-align: right;">
+<div style="text-align: center;">
   <img src="tatsuya.gif" width="220px">
 </div>
 
