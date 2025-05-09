@@ -2,13 +2,13 @@
   <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/banner.png"/>
 </div>
 
-## Yo, I'm Hall 👋
+## Yo, I'm Hall 
 
-🖤 Beginner dev  
+🐱‍👤 Beginner dev  
 💻 Currently learning: Git, GitHub, Python, HTML, CSS and JavaScript  
 🚀 Building cool projects  
-💬 Always up for a chat and a good laugh 😁  
-## 🎧 Now Playing on Spotify
+💬 Always up for a chat and a good laugh :D
+## 🎧 Now Playing on Spotify 🎶
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8vcl1oqpxen43nb4lt4xov5jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f5f5f5)](https://github.com/kittinan/spotify-github-profile)
 
