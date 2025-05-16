@@ -1,6 +1,6 @@
-<div align="center">
+<p align="center">
   <img src="https://raw.githubusercontent.com/Hall065/Hall065/main/banner.png"/>
-</div>
+</p>
 
 ## Yo, I'm Hall 
 
@@ -12,10 +12,9 @@
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8vcl1oqpxen43nb4lt4xov5jc&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=f5f5f5)](https://github.com/kittinan/spotify-github-profile)
 
-<div align="center">
-  <img src="https://github.com/Hall065/Hall065/raw/main/Swords%20Banner%20Git.png"/>
-</div>
-
+<p align="center">
+  <img src="https://github.com/Hall065/Hall065/raw/main/Swords%20Banner%20Git.png" alt="Banner"/>
+</p>
 ---
 
 ## 🧠 My Skills
