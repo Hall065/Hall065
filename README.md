@@ -5,7 +5,7 @@
 ## Yo, I'm Hall 
 
 🐱‍👤 Beginner dev  
-💻 Currently learning: Git, GitHub, Python, HTML, CSS and JavaScript  
+💻 Currently learning: Git, GitHub, MySql, Python, Php, HTML, CSS and JavaScript  
 🚀 Building cool projects  
 💬 Always up for a chat and a good laugh :D
 ## 🎧 Now Playing on Spotify 🎶
