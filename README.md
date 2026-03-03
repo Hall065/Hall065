@@ -140,7 +140,7 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-VaiSerPreenchido-181717?style=for-the-badge&logo=github&logoColor=white)](VaiSerPreenchido)
+[![GitHub](https://img.shields.io/badge/GitHub-Hall065-181717?style=for-the-badge&logo=github&logoColor=white)]([VaiSerPreenchido](https://github.com/Hall065))
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-VaiSerPreenchido-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](VaiSerPreenchido)
 [![Discord](https://img.shields.io/badge/Discord-VaiSerPreenchido-5865F2?style=for-the-badge&logo=discord&logoColor=white)](VaiSerPreenchido)
 [![Instagram](https://img.shields.io/badge/Instagram-VaiSerPreenchido-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](VaiSerPreenchido)
