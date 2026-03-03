@@ -16,9 +16,11 @@
 <tr>
 <td align="center">
 
+```
   行く道は長く
   コードは夜に咲く花
   学びは続く
+```
 
 *The path is long / Code blooms like a night flower / Learning never ends*
 
@@ -40,11 +42,12 @@
 src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple&cache_seconds=1800"
 width="420"/>
 
-
+```
 名前     : Hall
 役割     : Beginner Developer
 哲学     : "Shoshin" — Beginner's Mind 初心
 状態     : Always Learning, Always Building
+```
 
 **今学んでいること — Currently Learning:**
 - 🌿 `Git` & `GitHub` — Version control mastery
