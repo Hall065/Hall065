@@ -16,7 +16,7 @@
 <tr>
 <td align="center">
 
-```yaml
+```
   行く道は長く
   コードは夜に咲く花
   学びは続く
@@ -38,11 +38,9 @@
 
 </div>
 
-<img align="right"
-src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple&cache_seconds=1800"
-width="420"/>
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=e8d5b0&text_color=c0a882&icon_color=bf8b5e&rank_icon=github" width="420"/>
 
-```
+```yaml
 名前     : Hall
 役割     : Beginner Developer
 哲学     : "Shoshin" — Beginner's Mind 初心
@@ -97,11 +95,11 @@ width="420"/>
 | 技術 Skill | 段階 Level | 修行 Journey |
 |---|---|---|
 | HTML / CSS | `████████░░` 80% | 🌸 Blooming |
-| PHP | `██████░░░░` 60% | 🌿 Growing |
+| Python | `██████░░░░` 60% | 🌿 Growing |
 | JavaScript | `█████░░░░░` 50% | ⚡ Sparking |
 | Git & GitHub | `███████░░░` 70% | ⚔️ Sharpening |
-| MySql | `████░░░░░░` 40% | 🌾 Seeding |
-| Python | `████░░░░░░` 40% | 🌾 Seeding |
+| PHP | `████░░░░░░` 40% | 🌾 Seeding |
+| MySQL | `████░░░░░░` 40% | 🌾 Seeding |
 
 </div>
 
