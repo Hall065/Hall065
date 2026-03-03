@@ -140,9 +140,9 @@
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-Hall065-181717?style=for-the-badge&logo=github&logoColor=white)]([VaiSerPreenchido](https://github.com/Hall065))
-[![-Email](https://img.shields.io/badge/Email-Hall-25D366?style=for-the-badge&logo=email&logoColor=white)](hall065.2022@gmail.com)
-[![Discord](https://img.shields.io/badge/Discord-VaiSerPreenchido-5865F2?style=for-the-badge&logo=discord&logoColor=white)](VaiSerPreenchido)
+[![GitHub](https://img.shields.io/badge/GitHub-Hall065-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Hall065)
+[![Email](https://img.shields.io/badge/Email-hall065.2022%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hall065.2022@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-hall.j-5865F2?style=for-the-badge&logo=discord&logoColor=white)](#)
 [![Instagram](https://img.shields.io/badge/Instagram-joao_vitorf05-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/joao_vitorf05/)
 
 <br/>
