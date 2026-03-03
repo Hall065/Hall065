@@ -97,11 +97,11 @@ width="420"/>
 | 技術 Skill | 段階 Level | 修行 Journey |
 |---|---|---|
 | HTML / CSS | `████████░░` 80% | 🌸 Blooming |
-| Python | `██████░░░░` 60% | 🌿 Growing |
+| PHP | `██████░░░░` 60% | 🌿 Growing |
 | JavaScript | `█████░░░░░` 50% | ⚡ Sparking |
 | Git & GitHub | `███████░░░` 70% | ⚔️ Sharpening |
-| PHP | `████░░░░░░` 40% | 🌾 Seeding |
-| MySQL | `████░░░░░░` 40% | 🌾 Seeding |
+| MySql | `████░░░░░░` 40% | 🌾 Seeding |
+| Python | `████░░░░░░` 40% | 🌾 Seeding |
 
 </div>
 
