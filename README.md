@@ -39,7 +39,7 @@
 </div>
 
 <img align="right"
-src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple"
+src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple&cache_seconds=1800"
 width="420"/>
 
 ```yaml
