@@ -38,7 +38,9 @@
 
 </div>
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=e8d5b0&text_color=c0a882&icon_color=bf8b5e&rank_icon=github" width="420"/>
+<img align="right"
+src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Hall065&show_icons=true&theme=midnight-purple"
+width="420"/>
 
 ```yaml
 名前     : Hall
